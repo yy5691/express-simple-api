@@ -1,5 +1,5 @@
-# 安装依赖
+## 安装依赖
   npm install
 
-# 运行项目
-  npm runstart
+## 运行项目
+  npm run start
